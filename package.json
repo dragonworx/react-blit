@@ -1,0 +1,9 @@
+{
+  "name": "react-blit",
+  "version": "0.0.1",
+  "description": "Turbo charged React UI",
+  "main": "index.js",
+  "repository": "https://github.com/dragonworx/react-blit.git",
+  "author": "Ali Chamas <dragonworxau@yahoo.com.au>",
+  "license": "MIT"
+}
